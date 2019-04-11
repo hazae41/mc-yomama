@@ -1,0 +1,7 @@
+name: YoMama
+version: @version@
+main: hazae41.minecraft.yomama.BukkitYoMama
+author: Hazae41
+
+commands:
+  yomama:

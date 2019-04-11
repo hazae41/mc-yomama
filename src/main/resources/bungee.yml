@@ -1,0 +1,4 @@
+name: YoMama
+version: @version@
+main: hazae41.minecraft.yomama.BungeeYoMama
+author: Hazae41
